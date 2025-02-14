@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static junit.framework.Assert.assertEquals;
 
-class TempConverterTest {
+class TemperatureConverterTest {
     // initial method
     @Test
     void convertFahr() {
