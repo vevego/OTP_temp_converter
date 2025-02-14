@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>untitled</artifactId>
+    <artifactId>OTP_temp_converter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
